@@ -1,0 +1,3 @@
+⚙️ Running git init...
+✅ Initial commit created.
+✅ Remote added: https://github.com/MSAEEDIMI/test3.git
